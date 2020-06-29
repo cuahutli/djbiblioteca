@@ -106,9 +106,9 @@ AUTH_USER_MODEL = 'usuario.Usuario'
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
 
-LANGUAGE_CODE = 'es-PE'
+LANGUAGE_CODE = 'es-MX'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Mazatlan'
 
 USE_I18N = True
 
